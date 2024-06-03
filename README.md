@@ -1,5 +1,15 @@
 <h2>Welcome to my GitHub profile! 👋</h2>
 
+I am a junior frontend developer passionate about technology.
+
+I started my coding journey on a bootcamp that made me really motivated about programming.
+
+## What's next? 
+
+- 🌱 I’m currently learning JavaScript / React + Redux.
+- 💬 I’m open for the opportunity.
+- ⚡ Fun fact: I used to be a driver and on the way I found out that the best way for me to be happy is to learn new things and get into developing. 
+
 <h3>🛠 Technologies</h3>
 
 
