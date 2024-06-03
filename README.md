@@ -4,7 +4,7 @@ I am a junior frontend developer passionate about technology.
 
 I started my coding journey on a bootcamp that made me really motivated about programming.
 
-## What's next? 
+## What's next? 💡
 
 - 🌱 I’m currently learning JavaScript / React + Redux.
 - 💬 I’m open for the opportunity.
