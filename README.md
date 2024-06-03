@@ -1,4 +1,4 @@
-<h2>Welcome to my GitHub profile! 👋</h2>
+## Welcome to my GitHub profile! 👋
 
 I am a junior frontend developer passionate about technology.
 
@@ -10,8 +10,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 - 💬 I’m open for the opportunity.
 - ⚡ Fun fact: I used to be a driver and on the way I found out that the best way for me to be happy is to learn new things and get into developing. 
 
-<h3>🛠 Technologies</h3>
-
+## 🛠 Technologies
 
 🌐 Frontend:
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" height="18" /></a>
