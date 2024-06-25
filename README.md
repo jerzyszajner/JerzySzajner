@@ -23,6 +23,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 🗄 Backend:
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" height="18" /></a>
+<a href="https://wordpress.org/" target="_blank"><img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" height="18" /></a>
 
 ⚙️ VCS:
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="18" /></a>
