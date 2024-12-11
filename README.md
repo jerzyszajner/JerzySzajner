@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! 👋
+# Welcome to my GitHub profile! 👋
 
 I am a junior frontend developer passionate about technology.
 
@@ -6,14 +6,18 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 ## What's next? 💡
 
-- 🌱 I’m currently learning JavaScript / React + Redux.
+- 🌱 I’m currently studying Web Development in Oslo and learning JavaScript / React + Redux.
 - 💬 I’m open for the opportunities.
 - ⚡ Fun fact: I used to be a driver and on the way I found out that the best way for me to be happy is to learn new things and get into developing.
 
 ## Why I code? 💻
 
-- 🔥 Because I like it, I believe that if I find a job I love, I'll never have to work again.
+- 🔥 Because I like it.
 
+## My Project 🚀
+
+- Take a look at my project: [Choice Your Pill](https://choice-your-pill.netlify.app/).
+  
 ## Technologies 🛠
 
 🌐 Frontend:
@@ -35,3 +39,6 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 🔧 IDE's:
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" height="18" /></a>
+
+🎨 Figma:
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" height="18" /></a>
