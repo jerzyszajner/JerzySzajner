@@ -22,6 +22,8 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 - [Rocket Biocca](https://rocket-biocca-demo.netlify.app/)
 - [Product Personalizer React App](https://product-personalizer.netlify.app/)
 - [Books App](https://my-first-books-app.netlify.app/)
+- [Project Pizzeria](https://my-project-pizzeria.netlify.app/#/home)  
+  **Backend:** [Hosted on Render](https://project-pizzeria-backend.onrender.com)
   
 ## Technologies 🛠
 
