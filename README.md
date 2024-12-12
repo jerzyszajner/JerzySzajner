@@ -20,6 +20,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 - [JavaScript Quiz](https://javascript-quiz-js.netlify.app/)
 - [FC BARCELONA - FIRST TEAM](https://fc-barcelona-demo.netlify.app/)
 - [Rocket Biocca](https://rocket-biocca-demo.netlify.app/)
+- [Product Personalizer React App]](https://product-personalizer.netlify.app/)
   
 ## Technologies 🛠
 
