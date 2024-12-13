@@ -18,8 +18,9 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 - [Choice Your Pill](https://choice-your-pill.netlify.app/)
 - [JavaScript Quiz](https://javascript-quiz-js.netlify.app/)
-- [FC BARCELONA - FIRST TEAM](https://fc-barcelona-demo.netlify.app/)
+- [FC Barcelona - First Team](https://fc-barcelona-demo.netlify.app/)
 - [Rocket Biocca](https://rocket-biocca-demo.netlify.app/)
+- [My First Website](https://my-first-webside.netlify.app/)
 - [Product Personalizer React App](https://product-personalizer.netlify.app/)
 - [Books App](https://my-first-books-app.netlify.app/)
 - [Project Pizzeria](https://my-project-pizzeria.netlify.app/#/home)  
