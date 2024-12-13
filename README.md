@@ -22,6 +22,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 - [Rocket Biocca](https://rocket-biocca-demo.netlify.app/)
 - [My First Website](https://my-first-webside.netlify.app/)
 - [Creative Agency](https://creative-agency-studio.netlify.app/)
+- [Hot Shop - Bootstrap](https://hot-shop.netlify.app/)
 - [Product Personalizer React App](https://product-personalizer.netlify.app/)
 - [Books App](https://my-first-books-app.netlify.app/)
 - [Project Pizzeria](https://my-project-pizzeria.netlify.app/#/home)  
