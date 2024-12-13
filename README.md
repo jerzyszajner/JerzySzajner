@@ -28,6 +28,8 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 - [Books App](https://my-first-books-app.netlify.app/)
 - [Project Pizzeria](https://my-project-pizzeria.netlify.app/#/home)  
   **Backend:** [Hosted on Render](https://project-pizzeria-backend.onrender.com)
+- [Waiter React App](https://waiter-react-app.netlify.app/#/home)  
+  **Backend:** [Hosted on Render](https://waiter-app-rbef.onrender.com)
   
 ## Technologies 🛠
 
