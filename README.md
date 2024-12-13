@@ -26,6 +26,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 - [Product Personalizer React App](https://product-personalizer.netlify.app/)
 - [Currency React App](https://currency-react-app.netlify.app/)
 - [Books App](https://my-first-books-app.netlify.app/)
+- [React To-Do App](https://my-first-react-to-do-app.netlify.app/)
 - [Project Pizzeria](https://my-project-pizzeria.netlify.app/#/home)  
   **Backend:** [Hosted on Render](https://project-pizzeria-backend.onrender.com)
 - [Waiter React App](https://waiter-react-app.netlify.app/#/home)  
