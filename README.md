@@ -54,5 +54,5 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 🔧 IDE's:
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" height="18" /></a>
 
-🎨 Figma:
+🎨 Design Tools:
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" height="18" /></a>
