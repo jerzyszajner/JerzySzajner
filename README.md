@@ -56,3 +56,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 🎨 Design Tools:
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" height="18" /></a>
+
+🌍 Deployment & Hosting:
+<a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white" height="18" /></a>
+<a href="https://render.com/" target="_blank"><img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white" height="18" /></a>
