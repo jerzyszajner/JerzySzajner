@@ -17,6 +17,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 ## My Projects 🚀
 
 - [Choose Your Pill](https://choose-your-pill.netlify.app/)
+- [Interactive Design System](https://interactive-design-system.netlify.app/)
 - [JavaScript Quiz](https://javascript-quiz-js.netlify.app/)
 - [FC Barcelona - First Team](https://fc-barcelona-demo.netlify.app/)
 - [Rocket Biocca](https://rocket-biocca-demo.netlify.app/)
