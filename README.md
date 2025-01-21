@@ -37,8 +37,6 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 ![Jerzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerzyszajner&theme=dark&show_icons=true)
 
-### Most Used Languages 📚
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerzyszajner&layout=compact&theme=dark)
   
 ## Technologies 🛠
