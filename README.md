@@ -33,6 +33,13 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 - <a href="https://waiter-react-app.netlify.app/#/home">Waiter React App</a>  
   **Backend:** <a href="https://waiter-app-rbef.onrender.com">Hosted on Render</a>
 
+## GitHub Stats 📊
+
+![Jerzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerzyszajner&theme=dark&show_icons=true)
+
+### Most Used Languages 📚
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerzyszajner&layout=compact&theme=dark)
   
 ## Technologies 🛠
 
@@ -53,7 +60,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="18" /></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="18" /></a>
 
-🔧 IDE's:
+🔧 IDEs:
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" height="18" /></a>
 
 🎨 Design Tools:
