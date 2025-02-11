@@ -30,9 +30,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 - <a href="https://my-first-books-app.netlify.app/">Books App</a>
 - <a href="https://my-first-react-to-do-app.netlify.app/">React To-Do App</a>
 - <a href="https://my-project-pizzeria.netlify.app/#/home">Project Pizzeria</a>  
-  **Backend:** <a href="https://project-pizzeria-backend.onrender.com">Hosted on Render</a>
 - <a href="https://waiter-react-app.netlify.app/#/home">Waiter React App</a>  
-  **Backend:** <a href="https://waiter-app-rbef.onrender.com">Hosted on Render</a>
 
 ## GitHub Stats 📊
 
