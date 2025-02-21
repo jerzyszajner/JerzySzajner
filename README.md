@@ -16,6 +16,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 ## My Projects 🚀
 
+- <a href="https://pharmacy-inventory-system.netlify.app//">Pharmacy Inventory Management System</a>
 - <a href="https://star-wars-api-explorer.netlify.app/">The Star Wars API Explorer</a>
 - <a href="https://choose-your-pill.netlify.app/">Choose Your Pill</a>
 - <a href="https://interactive-design-system.netlify.app/">Interactive Design System</a>
