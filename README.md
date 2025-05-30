@@ -16,7 +16,8 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 ## My Projects 🚀
 
-- [One Stop Shop React](https://one-stop-shop-react.netlify.app/)
+- [One Stop Shop - React](https://one-stop-shop-react.netlify.app/)
+- [Expense Tracker - React](https://expense-tracker-ra.netlify.app/)
 - [Pharmacy Inventory Management System](https://pharmacy-inventory-system.netlify.app//)
 - [The Star Wars API Explorer](https://star-wars-api-explorer.netlify.app/)
 - [Choose Your Pill](https://choose-your-pill.netlify.app/)
