@@ -51,6 +51,8 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 
 ⚙️ **VCS:**
 
