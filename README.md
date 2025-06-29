@@ -1,21 +1,27 @@
-# Welcome to my GitHub profile! 👋
+Hey there! 👋
+I'm a frontend developer and I like learning new stuff.
+Started coding at a bootcamp which inspired me to dive deeper, so I went on to finish Web Development studies at Fagskole Kristiania in Oslo.
 
-I am a junior frontend developer passionate about technology.
+What's next? 💡
 
-I started my coding journey on a bootcamp that made me really motivated about programming.
+🚀 Looking for a job as frontend developer
+🌱 Learning JavaScript, React and AI tools like Cursor & GitHub Copilot
+💡 Building projects with AI and new frameworks
+⚡ Fun fact: From driving all day to coding all night - best career U-turn I ever made!
 
-## What's next? 💡
+Why I code? 💻
 
-- 🌱 I’m currently studying Web Development in Oslo and learning JavaScript / React + Redux.
-- 💬 I’m open for the opportunities.
-- ⚡ Fun fact: I used to be a driver and on the way I found out that the best way for me to be happy is to learn new things and get into developing.
+🔥 Because I like it...
+🧠 I enjoy solving problems
+🌟 Every project teaches me something new
+💪 It's cool to build things that make life easier
 
-## Why I code? 💻
-
-- 🔥 Because I like it...
+Hit me up! 🤝
+If you have an interesting project or want to chat about coding - I'm open!
 
 ## My Projects 🚀
 
+- [AI Keyword Extractor - React](https://ai-keyword-extractor-react.netlify.app/)
 - [One Stop Shop - React](https://one-stop-shop-react.netlify.app/)
 - [Expense Tracker - React](https://expense-tracker-ra.netlify.app/)
 - [Pharmacy Inventory Management System](https://pharmacy-inventory-system.netlify.app//)
