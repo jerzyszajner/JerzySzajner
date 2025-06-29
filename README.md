@@ -1,22 +1,20 @@
-Hey there! 👋
-I'm a frontend developer and I like learning new stuff.
+# Hey there! 👋
+I'm a frontend developer.
 Started coding at a bootcamp which inspired me to dive deeper, so I went on to finish Web Development studies at Fagskole Kristiania in Oslo.
 
-What's next? 💡
+## What's next? 💡
+- 🚀 Looking for a job as frontend developer
+- 🌱 Learning JavaScript, React and AI tools like Cursor & GitHub Copilot
+- 💡 Building projects with AI and new frameworks
+- ⚡ Fun fact: From driving all day to coding all night - best career U-turn I ever made!
 
-🚀 Looking for a job as frontend developer
-🌱 Learning JavaScript, React and AI tools like Cursor & GitHub Copilot
-💡 Building projects with AI and new frameworks
-⚡ Fun fact: From driving all day to coding all night - best career U-turn I ever made!
+## Why I code? 💻
+- 🔥 Because I like it
+- 🧠 I enjoy solving problems
+- 🌟 Every project teaches me something new
+- 💪 It's cool to build things that make life easier
 
-Why I code? 💻
-
-🔥 Because I like it...
-🧠 I enjoy solving problems
-🌟 Every project teaches me something new
-💪 It's cool to build things that make life easier
-
-Hit me up! 🤝
+## Hit me up! 🤝
 If you have an interesting project or want to chat about coding - I'm open!
 
 ## My Projects 🚀
