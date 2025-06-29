@@ -1,5 +1,5 @@
 # Hey there! 👋
-I'm a frontend developer.
+My name is Jerzy. I'm a frontend developer.
 Started coding at a bootcamp which inspired me to dive deeper, so I went on to finish Web Development studies at Fagskole Kristiania in Oslo.
 
 ## What's next? 💡
