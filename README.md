@@ -4,7 +4,7 @@ Started coding at a bootcamp which inspired me to dive deeper, so I went on to f
 
 ## What's next? 💡
 - 🚀 Looking for a job as frontend developer
-- 🌱 Learning JavaScript, React and AI tools like Cursor & GitHub Copilot
+- 🌱 Learning JavaScript, React + TypeScript and AI tools like Cursor & GitHub Copilot
 - 💡 Building projects with AI and new frameworks
 - ⚡ Fun fact: From driving all day to coding all night - best career U-turn I ever made!
 
