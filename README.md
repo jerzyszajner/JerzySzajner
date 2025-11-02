@@ -19,6 +19,7 @@ If you have an interesting project or want to chat about coding - I'm open!
 
 ## My Projects 🚀
 
+- [Property Listing - React + TypeScript](https://property-listing-react.netlify.app/)
 - [AI Keyword Extractor - React](https://ai-keyword-extractor-react.netlify.app/)
 - [One Stop Shop - React](https://one-stop-shop-react.netlify.app/)
 - [Expense Tracker - React](https://expense-tracker-ra.netlify.app/)
