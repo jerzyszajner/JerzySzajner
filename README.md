@@ -4,7 +4,7 @@ Started coding at a bootcamp which inspired me to dive deeper, so I went on to f
 
 ## What's next? 💡
 - 🚀 Looking for a job as frontend developer
-- 🌱 Learning JavaScript, React + TypeScript and AI tools like Cursor & GitHub Copilot
+- 🌱 Improving my TypeScript and React skills every day, building smarter apps with Firebase and AI tools.
 - 💡 Building projects with AI and new frameworks
 - ⚡ Fun fact: From driving all day to coding all night - best career U-turn I ever made!
 
@@ -47,6 +47,7 @@ If you have an interesting project or want to chat about coding - I'm open!
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
