@@ -4,7 +4,8 @@ Started coding at a bootcamp which inspired me to dive deeper, so I went on to f
 
 ## What's next? 💡
 - 🚀 Looking for a job as frontend developer
-- 🌱 Improving my TypeScript and React skills every day, building smarter apps with Firebase and AI tools.
+- 🌱 Improving my TypeScript and React skills every day, building smarter apps with Firebase and AI.
+- 🤖 Experimenting with AI agents (OpenClaw) and AI–web integration
 - 💡 Building projects with AI and new frameworks
 - ⚡ Fun fact: From driving all day to coding all night - best career U-turn I ever made!
 
@@ -20,6 +21,7 @@ If you have an interesting project or want to chat about coding - I'm open!
 ## My Projects 🚀
 
 - [Property Listing - React + TypeScript](https://property-listing-react.netlify.app/)
+- [Nordic Mobile – Demo Website](https://nordic-mobile.netlify.app/)
 - [AI Keyword Extractor - React](https://ai-keyword-extractor-react.netlify.app/)
 - [One Stop Shop - React](https://one-stop-shop-react.netlify.app/)
 - [Expense Tracker - React](https://expense-tracker-ra.netlify.app/)
