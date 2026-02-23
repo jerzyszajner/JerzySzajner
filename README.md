@@ -46,6 +46,7 @@ If you have an interesting project or want to chat about coding - I'm open!
 
 🌐 **Frontend:**
 
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -62,6 +63,11 @@ If you have an interesting project or want to chat about coding - I'm open!
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 
+🤖 **AI & Agents:**
+
+[![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF4500?logo=robot&logoColor=white)]
+[![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+
 ⚙️ **VCS:**
 
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
@@ -69,6 +75,7 @@ If you have an interesting project or want to chat about coding - I'm open!
 
 🔧 **IDEs:**
 
+[![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white)](https://cursor.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 🎨 **Design Tools:**
