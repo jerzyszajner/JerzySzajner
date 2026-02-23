@@ -65,7 +65,7 @@ If you have an interesting project or want to chat about coding - I'm open!
 
 🤖 **AI & Agents:**
 
-[![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF4500?logo=robot&logoColor=white)]
+[![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF4500?logo=robot&logoColor=white)](https://openclaw.ai/)
 [![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?logo=googlegemini&logoColor=white)](https://ai.google.dev/)
 
 ⚙️ **VCS:**
