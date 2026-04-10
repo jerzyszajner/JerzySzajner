@@ -20,6 +20,7 @@ If you have an interesting project or want to chat about coding - I'm open!
 
 ## My Projects 🚀
 
+- [Google Ads Copy Generator - React + TypeScript](https://google-ads-copy-generator.netlify.app/)
 - [Property Listing - React + TypeScript](https://property-listing-react.netlify.app/)
 - [Nordic Mobile – Demo Website](https://nordic-mobile.netlify.app/)
 - [AI Keyword Extractor - React](https://ai-keyword-extractor-react.netlify.app/)
