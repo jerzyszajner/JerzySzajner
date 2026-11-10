@@ -9,24 +9,19 @@ Started coding at a bootcamp which inspired me to dive deeper, so I went on to f
 - 💡 Building projects with AI and new frameworks
 - ⚡ Fun fact: From driving all day to coding all night - best career U-turn I ever made!
 
-## Why I code? 💻
-- 🔥 Because I like it
-- 🧠 I enjoy solving problems
-- 🌟 Every project teaches me something new
-- 💪 It's cool to build things that make life easier
-
 ## Hit me up! 🤝
 If you have an interesting project or want to chat about coding - I'm open!
 
 ## My Projects 🚀
 
-- [Google Ads Copy Generator - React + TypeScript](https://google-ads-copy-generator.netlify.app/)
+- [Tiny Steps: React + TypeScript + Firebase](https://tiny-steps-app.netlify.app/)
+- [One Stop Shop - React](https://one-stop-shop-react.netlify.app/)
 - [Property Listing - React + TypeScript](https://property-listing-react.netlify.app/)
 - [Nordic Mobile – Demo Website](https://nordic-mobile.netlify.app/)
 - [AI Keyword Extractor - React](https://ai-keyword-extractor-react.netlify.app/)
-- [One Stop Shop - React](https://one-stop-shop-react.netlify.app/)
+- [Google Ads Copy Generator - React + TypeScript](https://google-ads-copy-generator.netlify.app/)
 - [Expense Tracker - React](https://expense-tracker-ra.netlify.app/)
-- [Pharmacy Inventory Management System](https://pharmacy-inventory-system.netlify.app//)
+- [Pharmacy Inventory Management System](https://pharmacy-inventory-system.netlify.app/)
 - [The Star Wars API Explorer](https://star-wars-api-explorer.netlify.app/)
 - [Choose Your Pill](https://choose-your-pill.netlify.app/)
 - [Interactive Design System](https://interactive-design-system.netlify.app/)
